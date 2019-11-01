@@ -1,0 +1,12 @@
+D:\Sync\BoredAsFuckOn31.12.15\Derp InSim\Derp InSim\bin\Debug\Derp InSim.exe.config
+D:\Sync\BoredAsFuckOn31.12.15\Derp InSim\Derp InSim\bin\Debug\Derp InSim.exe
+D:\Sync\BoredAsFuckOn31.12.15\Derp InSim\Derp InSim\bin\Debug\Derp InSim.pdb
+D:\Sync\BoredAsFuckOn31.12.15\Derp InSim\Derp InSim\bin\Debug\InSimDotNet.dll
+D:\Sync\BoredAsFuckOn31.12.15\Derp InSim\Derp InSim\bin\Debug\InSimDotNet.pdb
+D:\Sync\BoredAsFuckOn31.12.15\Derp InSim\Derp InSim\obj\Debug\Derp InSim.csprojResolveAssemblyReference.cache
+D:\Sync\BoredAsFuckOn31.12.15\Derp InSim\Derp InSim\obj\Debug\Derp_InSim.Form1.resources
+D:\Sync\BoredAsFuckOn31.12.15\Derp InSim\Derp InSim\obj\Debug\Derp_InSim.Properties.Resources.resources
+D:\Sync\BoredAsFuckOn31.12.15\Derp InSim\Derp InSim\obj\Debug\Derp InSim.csproj.GenerateResource.Cache
+D:\Sync\BoredAsFuckOn31.12.15\Derp InSim\Derp InSim\obj\Debug\Derp InSim.exe
+D:\Sync\BoredAsFuckOn31.12.15\Derp InSim\Derp InSim\obj\Debug\Derp InSim.pdb
+D:\Sync\BoredAsFuckOn31.12.15\Derp InSim\Derp InSim\bin\Debug\InSimDotNet.xml
